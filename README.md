@@ -12,9 +12,9 @@ To write a python program to find the inverse of a matrix
 
 
 ## Program:
-<img width="826" height="377" alt="image" src="https://github.com/user-attachments/assets/531d05bc-9c56-4f22-95ab-1c2b3aa06162" />
+<img width="858" height="700" alt="image" src="https://github.com/user-attachments/assets/d8693360-0d06-43cb-8f1c-cf1c83e9ad7b" />
 
-## Output:
+## output:
 <img width="830" height="385" alt="image" src="https://github.com/user-attachments/assets/72995496-7c52-4b85-9e81-0202f6130ebd" />
 
 ## Result:
